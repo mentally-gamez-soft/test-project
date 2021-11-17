@@ -5,3 +5,5 @@ Add of this line from the repo directly.
 The branch was created locally
 
 test 2 for update directly from VS Code
+
+mide a jour depuis VsCode.
