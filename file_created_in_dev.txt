@@ -3,3 +3,5 @@ This file has been created in my local dev branch
 Add of this line from the repo directly.
 
 The branch was created locally
+
+test 2 for update directly from VS Code
